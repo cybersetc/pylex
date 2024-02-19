@@ -1,0 +1,13 @@
+.cards{
+    cursor: auto;
+    color: aqua;
+    border:2px solid rgb(92, 179, 255);
+    border-radius: 10px; 
+    display: flex;
+    box-shadow: 0px 6px 20px 0px #0079FF !important; 
+}
+.cards:hover{
+      border:2px solid rgb(92, 179, 255);
+      background-color: #0079FF;
+      transition: 1s;
+    }
